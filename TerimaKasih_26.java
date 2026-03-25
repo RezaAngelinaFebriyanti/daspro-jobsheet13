@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class TerimaKasih_26 {
 
     public static void UcapanTerimaKasih() {
