@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Ucapan_26 {
     public static String PenerimaUcapan(){
         Scanner sc = new Scanner(System.in);
