@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Percobaan626_Fungsi {
     static int hitungLuas (int pjg, int lb) {
         int Luas=pjg*lb;
