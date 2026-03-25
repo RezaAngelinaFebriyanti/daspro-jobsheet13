@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class Percobaan526 {
     static void Tampil (String str, int... a) {
         System.out.println("String: " + str);
